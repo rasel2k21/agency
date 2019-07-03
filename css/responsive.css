@@ -1,0 +1,308 @@
+@media screen and (max-width: 991px){
+    /*banner-section*/
+.banner-section .row{
+    min-height: 400px;
+}
+.banner-content h1{
+    font-size: 36px;
+}
+.banner-content h2{
+    font-size: 22px;
+}
+.banner-content a{
+    margin-top: 12px;
+    font-size: 14px;
+}
+/*about-us-section*/
+.about-us-section{
+    margin-bottom: 40px;
+}
+.heading{
+    padding: 35px 0 10px;
+}
+.about-us h5 {
+    font-size: 18px;
+}
+.about-us p{
+    max-width: 90%;
+}
+/*get-in-touch-section*/
+.get-in-touch-section{
+    background: #2a2a2a;
+    padding: 50px 0;
+}
+.get-in-touch-section h1{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.get-in-touch-section form input{
+
+    padding: 24px 10px;
+}
+.subscribe{
+    font-size: 16px;
+    margin-top: 0;
+}
+.get-in-touch-section form input{
+    font-size: 14px;
+}
+}
+@media screen and (max-width: 767px){
+
+/*top-header-section*/
+.top-info ul li i{
+    font-size: 13px;
+}
+.top-info ul li span{
+    font-size: 13px;
+}
+.top-info a{
+    font-size: 12px;
+}
+/*header*/
+.navbar-brand img{
+    max-width: 90%;
+}
+/*banner-section*/
+.banner-section .row{
+    min-height: 300px;
+}
+.banner-content h1{
+    font-size: 33px;
+}
+.banner-content h2{
+    font-size: 20px;
+}
+.banner-content a{
+    margin-top: 10px;
+    font-size: 14px;
+}
+.about-us p{
+    max-width: 95%;
+}
+/*about-us-section*/
+.about-us-section{
+    margin-bottom: 30px;
+}
+.heading{
+    padding: 30px 0 10px;
+}
+.heading h3{
+    font-size: 33px;
+}
+.heading h4{
+    font-size: 19px;
+}
+.about-us{
+    padding: 25px 0 0;
+}
+/*our-approch-section*/
+.step-one .approch-img .step{
+    top: 80%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 100px;
+    width: 100px;
+    background: #de2b24;
+    border-radius: 5px;
+    border: 1px solid #fff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+.step-one .approch-img .step h1{
+    margin-top: 14px;
+    color: #fff;
+    padding-left: 37px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+.step-one .approch-img .step p{
+    color: #fff;
+    padding-left: 37px;
+    line-height: .5;
+}
+
+.step-one .approch-content h6{
+    text-align: center;
+    margin-left: 0;
+}
+.step-one .approch-content p{
+    text-align: center; 
+    margin-left: 0;
+    margin-right: 0;
+}
+.step-two .approch-content h6{
+    text-align: center;
+    margin-right: 0;
+}
+.step-two .approch-content p{
+     text-align: center;
+     margin-right: 0;
+    margin-left: 0;   
+}
+.step-two{
+    background: #fff;
+    margin: 40px 0;
+}
+.step-two .approch-img{
+    position: relative;
+}
+.step-two .approch-img .step{
+    top: 80%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 100px;
+    width: 100px;
+    background: #de2b24;
+    border-radius: 5px;
+    border: 1px solid #fff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+.step-two .approch-img .step h1{
+    margin-top: 14px;
+    color: #fff;
+    padding-left: 37px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+.step-two .approch-img .step p{
+    color: #fff;
+    padding-left: 37px;
+    line-height: .5;
+}
+.step-two .col-11{
+    order: -1;
+}
+/*get-in-touch-section*/
+.get-in-touch-section{
+    background: #2a2a2a;
+    padding: 35px 0;
+}
+.get-in-touch-section h1{
+    font-size: 36px;
+    margin-bottom: 5px;
+}
+.get-in-touch-section form input{
+
+    padding: 24px 10px;
+}
+.subscribe{
+    font-size: 16px;
+    margin-top: 0;
+}
+.get-in-touch-section form input{
+    font-size: 14px;
+}
+}
+
+@media screen and (max-width: 575px){
+    /*header*/
+header{
+    padding: 5px 0;
+}
+.navbar-brand img{
+    max-width: 75%;
+}
+.navbar-toggler {
+    height: 35px;
+    width: 35px;
+    line-height: 35px;
+    font-size: 20px;
+}
+.btn-custom{
+    background: #de2b24;
+    color: #fff!important;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin-left: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px !important;
+    padding: 6px;
+}
+/*banner-section*/
+.banner-section .row{
+    min-height: 250px;
+}
+.banner-content h1{
+    font-size: 30px;
+}
+.banner-content h2{
+    font-size: 18px;
+}
+.banner-content a{
+    margin-top: 7px;
+    font-size: 13px;
+}
+/*about-us-section*/
+.about-us-section{
+   margin-bottom: 20px;
+}
+.heading{
+    padding: 20px 0;
+}
+.heading:hover.heading:before{
+    width: 60px;
+    background: #de2b24;
+}
+.heading h3{
+    font-size: 30px;
+}
+.heading h4{
+    font-size: 18px;
+}
+.about-us h5{
+    margin-top: 18px;
+}
+.about-us p{
+    max-width: 100%;
+}
+/*get-in-touch-section*/
+.get-in-touch-section{
+    background: #2a2a2a;
+    padding: 25px 0;
+}
+.get-in-touch-section h1{
+    font-size: 33px;
+    margin-bottom: 5px;
+}
+.get-in-touch-section form input{
+
+    padding: 24px 10px;
+}
+.subscribe{
+    font-size: 16px;
+    margin-top: 0;
+}
+.get-in-touch-section form input{
+    font-size: 14px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 483px){
+.navbar-brand img{
+    max-width: 70%;
+}
+.btn-custom{
+    display: none !important;
+}
+
+
+}
